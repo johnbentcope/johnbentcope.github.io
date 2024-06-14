@@ -1,6 +1,0 @@
-# theme: jekyll-theme-minimal
-remote_theme: papierkorp/jekyll-theme-horizon-flow
-title: John's homepage
-description: Bookmark this to keep an eye on my project updates!
-domain: johnbentcope.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://johnbentcope.github.io  # the base hostname and protocol for your site, e.g. http://example.com
