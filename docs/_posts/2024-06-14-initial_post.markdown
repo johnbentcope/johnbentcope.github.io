@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Post"
+title:  "Initial"
 date:   2024-06-13 20:32:43 -0400
 categories: jekyll update
 ---
