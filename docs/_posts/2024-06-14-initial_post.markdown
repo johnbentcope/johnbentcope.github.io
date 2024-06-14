@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial-Post"
+title:  "Initial Post"
 date:   2024-06-14 17:35:43 -0400
 categories: 
 ---
