@@ -11,7 +11,9 @@ This is my initial posting. I hope to document technical development and creativ
 
 ### augh
 
-{% include p5js-widget.html width=200 height=200 %}
+<script type="text/p5" data-p5-version="1.0.0"
+    data-preview-width="200"
+    data-height="200">
  function setup() {
   createCanvas(200, 200);
 
