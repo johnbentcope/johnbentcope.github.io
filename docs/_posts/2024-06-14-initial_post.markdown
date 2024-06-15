@@ -11,23 +11,7 @@ This is my initial posting. I hope to document technical development and creativ
 
 ### augh
 
-<script type="text/p5" data-p5-version="1.0.0"
-    data-preview-width="200"
-    data-height="200">
- function setup() {
-  createCanvas(200, 200);
 
-  let circleY = 0;
-}
-
-function draw() {
-  background(32);
-
-  circle(100, circleY, 50);
-
-  circleY = circleY + 1;
-}
-
-</script>
+<script src="sketch.js"></script>
 
 ### augh
