@@ -12,6 +12,6 @@ This is my initial posting. I hope to document technical development and creativ
 ### augh
 
 
-<script src="/sketch.js"></script>
+<script src="/media/sketch.js"></script>
 
 ### augh
