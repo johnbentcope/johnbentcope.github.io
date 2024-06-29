@@ -12,7 +12,7 @@ categories:
 <canvas id="canvas"></canvas>
 <script src="/media/seeds.js"></script>
 <script>
-  const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"seeds","experimentalVK":false,"fileSizes":{"seeds.pck":36720,"seeds.wasm":49282035},"focusCanvas":true,"gdextensionLibs":[]};
+  const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"seeds","experimentalVK":false,"fileSizes":{"/media/seeds.pck":36720,"/media/seeds.wasm":49282035},"focusCanvas":true,"gdextensionLibs":[]};
   var engine = new Engine(GODOT_CONFIG);
   engine.startGame();
 </script>
