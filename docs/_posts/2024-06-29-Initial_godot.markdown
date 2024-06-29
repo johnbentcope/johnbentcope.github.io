@@ -13,6 +13,6 @@ categories:
 <script src="/media/seeds.js"></script>
 <script>
   const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"seeds","experimentalVK":false,"fileSizes":{"seeds.pck":36720,"seeds.wasm":49282035},"focusCanvas":true,"gdextensionLibs":[]};
-  var engine = new Engine($GODOT_CONFIG);
+  var engine = new Engine(GODOT_CONFIG);
   engine.startGame();
 </script>
